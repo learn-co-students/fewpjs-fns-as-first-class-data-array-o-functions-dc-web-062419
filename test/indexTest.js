@@ -52,7 +52,7 @@ describe("index.js", () => {
     })
   })
 
-  describe("the function that runs the array o' functions", () => {
+  describe("the function that runs the array of functions", () => {
     it("calls into the independent functions", () => {
       expect(routine).to.be.a('array');
       expect(routine).to.include(wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog);
