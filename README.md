@@ -52,7 +52,7 @@ function wakeDog(dogName, dogBreed) {
 **Additionally**: Each function should return the string that it creates. That
 is, we should create a `String`, `console.log()` it, and return that `String`.
 
-## Create the Array o' Functions
+## Create the Array of Functions
 
 Continue writing "generalized" functions for
 
@@ -66,12 +66,12 @@ Continue writing "generalized" functions for
 Each function's implementation will be a generalized invocation of
 `console.log()`.
 
-## Create the Array o' Functions
+## Create the Array of Functions
 
-Next, create our "Array o' Functions!" Create a variable called `routine`. This
+Next, create our "Array of Functions!" Create a variable called `routine`. This
 variable will be an `Array` all of the functions we've just defined.
 
-## Create a Function to Process the Array o' Functions
+## Create a Function to Process the Array of Functions
 
 Lastly, create the function called `exerciseDog` that will take in two
 arguments:
